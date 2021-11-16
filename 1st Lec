@@ -1,0 +1,5 @@
+main()
+{
+  print("My name is Muhammad Arslan,\nI am from Kamalia.\nStuding Computer Sciences from University of Sahiwal");
+  
+}
